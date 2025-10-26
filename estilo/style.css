@@ -46,12 +46,17 @@ main
     font-size: large;
     margin-left: 20px;
 }
-
 a
+{
+    text-decoration: none;
+    color: black;
+}
+.indice a
 {
     text-decoration: none;
     color: blue;
 }
+
 
 #home
 {
